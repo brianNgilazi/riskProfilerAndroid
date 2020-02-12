@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RiskProfiler</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="id">identification</string>
+    <string name="details">Details</string>
+    <string name="next">Next</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="back">Back</string>
+    <string name="submit">Submit</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone Number</string>
+    <string name="search_hint">Search Database</string>
+    <string name="search_title">Background Search</string>
+    <string name="Search">search</string>
+    <string name="request">Request Report</string>
+</resources>

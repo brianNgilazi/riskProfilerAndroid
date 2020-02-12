@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "232992066686",
+    "firebase_url": "https://risk-profiler-e123a.firebaseio.com",
+    "project_id": "risk-profiler-e123a",
+    "storage_bucket": "risk-profiler-e123a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232992066686:android:670f7b307634f9fe5f1c2f",
+        "android_client_info": {
+          "package_name": "com.sniper.riskprofiler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232992066686-r5c8l999pb0o8mqarlqcjdb91jgmeto4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sniper.riskprofiler",
+            "certificate_hash": "5b3b9d2e74216f1abcae0ecbd1aa71507fe6d3c4"
+          }
+        },
+        {
+          "client_id": "232992066686-0o4o4gn8n58p1uobgochttt7g1egfau2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIHJuWf2cmfU_xa_1QZNahKL-rU1Mc2XE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232992066686-0o4o4gn8n58p1uobgochttt7g1egfau2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
